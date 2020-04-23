@@ -1,5 +1,7 @@
-import java.io.*;
-import java.util.*;
+package HackerRank;
+
+import java.io.IOException;
+import java.util.Scanner;
 
 public class SolutionRepeatedStringA {
 
