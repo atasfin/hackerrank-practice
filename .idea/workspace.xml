@@ -40,11 +40,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/HackerRank" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/HackerRank" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.TwoDimensionArrayDS">
     <configuration name="SolutionCloud" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -148,10 +154,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="582" y="178" key="CommitChangelistDialog2" timestamp="1587675502342">
+    <state x="582" y="178" key="CommitChangelistDialog2" timestamp="1587675555056">
       <screen x="0" y="23" width="1920" height="1102" />
     </state>
-    <state x="582" y="178" key="CommitChangelistDialog2/0.23.1920.1102@0.23.1920.1102" timestamp="1587675502342" />
+    <state x="582" y="178" key="CommitChangelistDialog2/0.23.1920.1102@0.23.1920.1102" timestamp="1587675555056" />
     <state width="1878" height="303" key="GridCell.Tab.0.bottom" timestamp="1587675405141">
       <screen x="0" y="23" width="1920" height="1102" />
     </state>
